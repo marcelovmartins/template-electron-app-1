@@ -8,7 +8,7 @@
     "dev": "electronmon ."
   },
   "keywords": [],
-  "author": "Kaique Covo",
+  "author": "Chelo",
   "license": "ISC",
   "devDependencies": {
     "electron": "^36.2.0",
